@@ -1,0 +1,24 @@
+.carImg {
+  transition: transform 0.3s;
+}
+
+.carImg:hover {
+  transform: scale(1.03);
+}
+
+.carBody {
+  color: #555555;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.carName {
+  font-weight: bold;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.carModel {
+  color: #555555;
+}
